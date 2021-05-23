@@ -1,0 +1,6 @@
+{
+    "name": "root/tdd-study",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}

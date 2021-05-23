@@ -1,0 +1,6 @@
+.devcontainer/
+.devcontainer/*
+
+main.php
+
+vendor/
